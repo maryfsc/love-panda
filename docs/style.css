@@ -1,4 +1,18 @@
 body {
   background-color: #F78E69;
+  margin: 0;
   font-family: 'Montserrat', sans-serif;
+}
+
+.uno-container {
+  /*height: 790px;*/
+}
+
+.panda-uno {
+  height: 442px;
+  object-fit: cover;
+}
+
+.gray {
+  filter: grayscale(1);
 }
